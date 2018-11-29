@@ -52,4 +52,4 @@ Com as informações acima, sua atividade será a criação de um conjunto de te
 * Seja produzido em _Java_ (Java 8 de preferência)
 * Possua informações para que possamos entender o que e como foi desenvolvido
 * Possua informações de como executar os testes
-* Escolha ao menos um dos seus testes e crie-o utilizando Jmeter
+* Será um diferencial se ao menos um dos seus testes for criado utilizando Jmeter
