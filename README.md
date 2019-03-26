@@ -10,9 +10,9 @@ Foi utilizado neste projeto:
   
   Ruby
   
-  Httparty: Gem do Ruby que gera as respostas para as requisições feitas)
+  Httparty: Gem do Ruby que gera as respostas para as requisições feitas
   
-  Rspec: Framework para testes em Ruby que descreve o comportamento. Onde o resultado do teste é exibido no terminal)
+  Rspec: Framework para testes em Ruby que descreve o comportamento. Onde o resultado do teste é exibido no terminal
   
   
 ## Pré Requisitos
