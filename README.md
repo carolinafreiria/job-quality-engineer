@@ -21,10 +21,14 @@ Foi utilizado neste projeto:
 
 ## Resultado dos Testes
 
-Validar canais sem área de atuação - Falhou
-Validar canal sem a opção de entraga Correios PAC - OK   
+Validar canais sem área de atuação - Falhou 
+
+Validar canal sem a opção de entraga Correios PAC - OK  
+
 Validar entrega de Tocantins para a região Sudeste  - OK
+
 Validar data de entrega para o estado do Pará - OK 
+
 Validar tipo de entrega para cotação SKU123 - OK 
 
 No cenário de validação dos canais sem área de atuação, a requisição do canal CN2 retornou com sucesso, quando deveria falhar e apresentar a mensagem de que não havia área de atuação para aquele canal.
