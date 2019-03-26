@@ -14,7 +14,7 @@ Foi utilizado neste projeto:
   
 ## Pré Requisitos
 
-Ter o Bundler instalado
+Ter o Ruby e Bundler instalado
 
 ## Instalação 
 
