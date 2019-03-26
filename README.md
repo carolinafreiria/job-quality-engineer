@@ -7,8 +7,11 @@ Para criação do BDD, os steps foram escritos de forma genérica para que pudes
 Foi utilizado neste projeto: 
 
   Cucumber 
+  
   Ruby
+  
   Httparty: Gem do Ruby que gera as respostas para as requisições feitas)
+  
   Rspec: Framework para testes em Ruby que descreve o comportamento. Onde o resultado do teste é exibido no terminal)
   
   
