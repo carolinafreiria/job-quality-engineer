@@ -1,4 +1,4 @@
-#Intelipost: Teste prático
+## Intelipost: Teste prático
  
 
 Teste automatizado da API de cotação
@@ -19,7 +19,7 @@ Foi utilizado neste projeto:
 2.  Entre na pasta do projeto e instale as dependências com: bundle install
 3.  Rode o teste com: cucumber -t @quote_by_product
 
-##Resultado dos Testes
+## Resultado dos Testes
 
 Validar canais sem área de atuação - Falhou
 Validar canal sem a opção de entraga Correios PAC - OK   
