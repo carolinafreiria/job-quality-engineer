@@ -19,8 +19,9 @@ Ter o Ruby e Bundler instalado
 ## Instalação 
 
 1.  Faça o clone desse projeto com: git clone https://github.com/carolinafreiria/job-quality-engineer.git
-2.  Entre na pasta do projeto e instale as dependências com: bundle install
-3.  Rode o teste no terminal com o comando: cucumber -t @quote_by_product
+2.  Entre na pasta features do projeto e instale as dependências com: bundle install
+3.  Volte para a pasta raiz do projeto (job-quality-engineer) 
+4.  Rode o teste no terminal com o comando: cucumber -t @quote_by_product
 
 ## Resultado dos Testes
 
